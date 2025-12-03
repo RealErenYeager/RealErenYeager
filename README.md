@@ -1,4 +1,4 @@
-# 💫 About Me:
+</> About Me:
 🔐 Cybersecurity | Penetration Testing | Bug Bounty | Ethical Hacker
 
 Cybersecurity enthusiast honing skills in web and network penetration testing by working on real-world targets through HackerOne and Bugcrowd, focusing on recon, exploitation, and responsible disclosure.<br><br>
@@ -10,16 +10,6 @@ Cybersecurity enthusiast honing skills in web and network penetration testing by
 • RentHub – House Rental Management System<br>
 Portfolio: https://hak3r.vercel.app/
 <br><br>
-
-🧠 Skills<br>
-
-• Web App Pentesting (OWASP Top 10)<br>
-• Recon & Attack Surface Mapping<br>
-• XSS, SQLi, IDOR, Path Traversal<br>
-• API & Authentication Testing<br>
-• Burp Suite, Nmap, FFUF, Gobuster<br>
-• Python for Security Automation<br>
-• Writing PoCs & Responsible Disclosure<br><br>
 
 Always learning, building, and exploring new cybersecurity challenges.<br>
 
