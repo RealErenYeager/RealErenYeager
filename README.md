@@ -1,4 +1,4 @@
-</> About Me:
+## </> About Me: <br>
 🔐 Cybersecurity | Penetration Testing | Bug Bounty | Ethical Hacker
 
 Cybersecurity enthusiast honing skills in web and network penetration testing by working on real-world targets through HackerOne and Bugcrowd, focusing on recon, exploitation, and responsible disclosure.<br><br>
